@@ -43,13 +43,14 @@
 <h2 align="center">Comfortable</h2>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,cs,java" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
   </a>
 </p>
 <h2 align="center">Familiar</h2>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+     <img src="https://skillicons.dev/icons?i=py,cs,java" />
   </a>
 </p>
 
