@@ -74,7 +74,7 @@
  </div>
 
 
-## Top Repositories
+# 🎯 Top Repositories
 
 <div align="center"><a href="https://github.com/sahosskhan/Contest-Hub-Client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sahosskhan&repo=Contest-Hub-Client&title_color=6366f1&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
 
